@@ -8,7 +8,7 @@
 ###### title5
 
 
-```
+```java
 public int static main()
 { returan 0;
 }
