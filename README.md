@@ -7,3 +7,10 @@
 ##### title4
 ###### title5
 
+
+```
+public int static main()
+{ returan 0;
+}
+```
+
